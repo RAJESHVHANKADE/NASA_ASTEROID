@@ -110,7 +110,7 @@ Thank you for contributing to our project!
 
 2. **Navigate to the project directory:** 
 
-cd your-repository
+   cd your-repository
 
 3. **Activate the virtual environment:**
 

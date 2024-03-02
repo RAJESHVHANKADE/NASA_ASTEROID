@@ -74,7 +74,7 @@ We welcome contributions from the community to improve our project. If you would
    git commit -m "Add your message here"
 3. **Push your changes:** Push your changes to your fork:
 
-git push origin feature/your-feature
+   git push origin feature/your-feature
 
 4.  **Open a pull request (PR):** Open a pull request (PR) against the main branch of our repository.
 

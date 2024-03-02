@@ -35,7 +35,9 @@ Appendix B: Useful Links
 
 https://api.nasa.gov/
 
-https://scikit-learn.org/0.21/documentation.html## Color Reference
+https://scikit-learn.org/0.21/documentation.html## 
+
+**Color Reference** 
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
